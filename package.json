@@ -1,6 +1,6 @@
 {
   "name": "hours-minutes-seconds",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Consistant time rendering eg. 12:34:56 or 01:02:03",
   "main": "index.js",
   "scripts": {
