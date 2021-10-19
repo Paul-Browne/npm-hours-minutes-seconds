@@ -1,15 +1,17 @@
 {
   "name": "hours-minutes-seconds",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Consistant time rendering eg. 12:34:56 or 01:02:03",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Paul-Browne/npm-hours-minutes-seconds.git"
   },
+  "keywords": ["time", "constant width", "console log"],
   "author": "Paul Browne",
   "license": "MIT",
   "bugs": {
